@@ -9,5 +9,6 @@ Objectives:
 3. Incorporate measurement findings, multiple perspectives, and functional goals into clinical decision making.
 4. Explain how specific measures can be used in different stages of MBC.
 
-** This repository provides access to open access presentation materials **
-** All materials are CC BY-ND 4.0 **
+Some of the information cited in this presentation is currently under peer review. Updated citations will be added to this repository's wiki page as they become available.
+
+** This repository provides access to open access presentation materials ** ** All materials are CC BY-ND 4.0 **
